@@ -1,5 +1,5 @@
 body{
-    background: #eceef6;
+    /* background: #eceef6; */
     font-family: Century Gothic;
     height: 100vh;
     margin: 0%;
@@ -75,11 +75,11 @@ body{
 }
 .Icones-vid{
     border-radius: 50px;
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     position: absolute;
     margin-left: 1000px;
-    margin-top: -160px;
+    margin-top: -260px;
 }
 .Icones-mic{
     border-radius: 50%;
@@ -93,8 +93,8 @@ body{
     width: 47px;
     height: 47px;
     position: absolute;
-    margin-top: -360px;
-    margin-left: 518px;
+    margin-top: -397px;
+    margin-left: 575px;
     border-radius: 50%;
 }
 .Icones-rdv{
@@ -102,15 +102,15 @@ body{
     height: 48px;
     position: absolute;
     margin-top: -280px;
-    margin-left: 350px;
+    margin-left: 320px;
 }
-.Icones-mail{
+/* .Icones-mail{
     width: 45px;
     height: 45px;
     position: absolute;
     margin-top: -300px;
     margin-left: 984px;
-}
+} */
 
 #middle{
     display: flex;
@@ -152,8 +152,8 @@ p{
 
 .fondImg{
     position: absolute;
-    width: 860px;
-    height: 500px;
+    width: 670px;
+    height: 420px;
     margin-top: -20px;
 }
 
